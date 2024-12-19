@@ -1,6 +1,6 @@
 # Screenshot Analysis Tool
 
-A Python tool that analyzes screenshots using Amazon Bedrock's AI model and generates detailed markdown reports viewable in a browser.
+A Python tool that analyzes screenshots using Amazon Bedrock's AI models and generates detailed markdown reports viewable in a browser.
 
 *Screenshot:*
 
