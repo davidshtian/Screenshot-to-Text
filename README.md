@@ -1,4 +1,4 @@
-# Screenshot Analysis Tool
+# Screenshot-to-Text Analysis Tool
 
 A Python tool that analyzes screenshots using Amazon Bedrock's AI models and generates detailed markdown reports viewable in a browser.
 
